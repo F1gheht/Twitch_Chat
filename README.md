@@ -24,7 +24,7 @@
 
 ## Установка
 
-1. Откройте [**Releases**](../../releases/latest) и скачайте `TwitchChatOverlay-Setup-x.y.z.exe`.
+1. Откройте [**Releases**](../../releases/latest) и скачайте `TwitchChatOverlay-Setup.exe`.
 2. Запустите установщик. Права администратора не нужны.
    При желании отметьте «Запускать вместе с Windows».
 
